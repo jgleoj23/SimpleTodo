@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jgleoj23/SimpleTodo/raw/master/recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jgleoj23/SimpleTodo/raw/master/recording.gif' height="80%" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
